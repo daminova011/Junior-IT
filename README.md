@@ -1,1 +1,3 @@
-# Junior-IT
+<h1>Bu mening Loyiham</h1>
+<hr>
+<p>Loyihamning asosiy maqsadi kitobxonlikni keng targ'ib qilish</p>
